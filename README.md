@@ -11,7 +11,7 @@ As organizações não governamentais (ONGs) são entidades privadas da sociedad
 
 
 ### Back-end:
-![image](https://user-images.githubusercontent.com/55156476/77479851-5518d400-6dff-11ea-9541-69f391c2747a.png)
+<...loading >
 
 ## :rocket: Tecnologias
 
