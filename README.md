@@ -1,13 +1,12 @@
-# Be The Hero Dark
-
-🦸‍♂️ Qual a importância de ajudar uma ONG?
+# Be The Hero
+♂️ Qual a importância de ajudar uma ONG?
 As organizações não governamentais (ONGs) são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: direitos humanos, direitos animais, direitos indígenas, gênero, luta contra o racismo, meio ambiente, questões urbanas, imigrantes, entre muitos outros.
 
 ## :camera: Veja:
 
 ### Front-end
 
-<loading ...>
+
 
 
 ### Back-end:
