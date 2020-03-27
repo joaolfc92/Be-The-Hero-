@@ -1,5 +1,4 @@
 # Be The Hero Dark
-Aplicação com intuito de conectar pessoas interessadas em ajudar ONGS. Desenvolvida com Node.js, ReactJS e React Native.
 
 🦸‍♂️ Qual a importância de ajudar uma ONG?
 As organizações não governamentais (ONGs) são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: direitos humanos, direitos animais, direitos indígenas, gênero, luta contra o racismo, meio ambiente, questões urbanas, imigrantes, entre muitos outros.
@@ -8,7 +7,7 @@ As organizações não governamentais (ONGs) são entidades privadas da sociedad
 
 ### Front-end
 
-
+<loading ...>
 
 
 ### Back-end:
