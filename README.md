@@ -19,8 +19,8 @@ As organizações não governamentais (ONGs) são entidades privadas da sociedad
 ### Mobile:
 
 
-![WhatsApp Image 2020-03-27 at 22 50 42 (2)](https://user-images.githubusercontent.com/46541402/77812203-923ec980-707e-11ea-9d91-c3330f5cebdd.jpeg)
-![WhatsApp Image 2020-03-27 at 22 50 42 (1)](https://user-images.githubusercontent.com/46541402/77812205-92d76000-707e-11ea-85a8-f4e59b137aa4.jpeg)
+![WhatsApp Image 2020-03-27 at 22 50 42 (2)](https://user-images.githubusercontent.com/46541402/77812203-923ec980-707e-11ea-9d91-c3330f5cebdd.jpeg)<br>
+![WhatsApp Image 2020-03-27 at 22 50 42 (1)](https://user-images.githubusercontent.com/46541402/77812205-92d76000-707e-11ea-85a8-f4e59b137aa4.jpeg)<br>
 ![WhatsApp Image 2020-03-27 at 22 50 42](https://user-images.githubusercontent.com/46541402/77812206-936ff680-707e-11ea-8cf0-b324fbcb3197.jpeg)
 
 
