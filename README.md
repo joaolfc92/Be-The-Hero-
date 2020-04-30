@@ -68,7 +68,7 @@ As organizações não governamentais (ONGs) são entidades privadas da sociedad
 
 ### :mortar_board: Quem ministrou?
 
-A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
+A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g).
 
 ### :memo: Licença
 
